@@ -61,8 +61,8 @@ cd dkn-compute-node
 ./dkn-compute-launcher
 ```
 
-- **Enter your DKN wallet Secret key `Your metamask Private Key without 0x` Use Burner Wallet / Airdrop Wallet**
-- **Pick a Model**
+- Enter your DKN wallet Secret key `Your metamask Private Key without 0x` Use Burner Wallet / Airdrop Wallet
+- Pick a Model
  - I use only one model,`gemini-1.5-flash` by selecting `10`
  - `Gemini` is a google API with upto `1500` free requests daily, No cost, doesn't need VPS resources.
  - Get your Google API [here](https://ai.google.dev/gemini-api/docs/api-key) Click `Get a Gemini API key in Google AI Studio` > Click `Create API Key` > Save it and paste it into your VPS model
