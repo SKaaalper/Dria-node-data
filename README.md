@@ -9,7 +9,7 @@
 - ***Official Guide + Windows Version***: [https://dria.co/join](https://dria.co/join)
 
 
-## 1.**Install Dependecies**:
+## 1. **Install Dependecies**:
 - **Install docker**
 ```
 sudo apt update -y && sudo apt upgrade -y
@@ -43,7 +43,7 @@ docker --version
 curl -fsSL https://ollama.com/install.sh | sh
 ```
 
-## 2.**Install Dria**:
+## 2. **Install Dria**:
 ```
 cd $HOME && curl -L -o dkn-compute-node.zip https://github.com/firstbatchxyz/dkn-compute-launcher/releases/latest/download/dkn-compute-launcher-linux-amd64.zip
 ```
@@ -56,7 +56,7 @@ unzip dkn-compute-node.zip
 cd dkn-compute-node
 ```
 
-## 3.**Run Dria Node**:
+## 3. **Run Dria Node**:
 ```
 ./dkn-compute-launcher
 ```
@@ -89,7 +89,7 @@ DKN_P2P_LISTEN_ADDR="/ip4/0.0.0.0/tcp/2001
 ```
 - Or you can modify it to avoid conflicts with the old ones you are running.
 
-## 4.**Re-run Dria Node**:
+## 4. **Re-run Dria Node**:
 - Now that you have ensured your `models` passed the test and your node is running, you should restart your node within a screen session. Press `Ctrl+C` to stop the node and exit.
   
 ```
@@ -104,12 +104,12 @@ screen -S dria
 - You can minimze the screen with `CTRL+A`, then click `D`
 - To open your screen again `screen -r dria`
 
-## 5.**Earn Node-Keeper Role**
+## 5. **Earn Node-Keeper Role**
 - Join Dria Official `Discord` [here](https://discord.gg/dria)
 - Fill up the Form [here](https://docs.google.com/forms/d/e/1FAIpQLSeK090ejc4dg5x1ztb_yAOxGz5o1V8JUqDa-o3AwV1Lq7NpMA/viewform)
 
 
-## 6.**Check your step (Points)**
+## 6. **Check your step (Points)**
 - [https://steps.leaderboard.dria.co/](https://steps.leaderboard.dria.co/)
 - Paste your DRIA node address
 
