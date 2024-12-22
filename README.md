@@ -75,7 +75,7 @@ cd dkn-compute-node
 - Now your node will start Downloading Models files and Testing them each model must pass its test and it only depends on your system specification
 
 
-***Error***: If a port conflict occurs, edit the file using this command:
+***Error***: **If a port conflict occurs, edit the file using this command**:
 ```
 nano $HOME/dkn-compute-node/.env
 ```
