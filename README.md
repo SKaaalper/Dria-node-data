@@ -71,11 +71,11 @@ cd dkn-compute-node
 
  ![Image](https://github.com/SKaaalper/Dria-node-data/blob/main/image2.png)
 
-- **Skip `Jina` & `Serper API key` by pressing `Enter`**
-- **Now your node will start Downloading Models files and Testing them each model must pass its test and it only depends on your system specification**
+- Skip `Jina` & `Serper API key` by pressing `Enter`
+- Now your node will start Downloading Models files and Testing them each model must pass its test and it only depends on your system specification
 
 
-Error: **If a port conflict occurs, edit the file using this command**:
+***Error***: If a port conflict occurs, edit the file using this command:
 ```
 nano $HOME/dkn-compute-node/.env
 ```
