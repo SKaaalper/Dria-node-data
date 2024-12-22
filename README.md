@@ -67,7 +67,7 @@ cd dkn-compute-node
  - `Gemini` is a google API with upto `1500` free requests daily, No cost, doesn't need VPS resources.
  - Get your Google API [here](https://ai.google.dev/gemini-api/docs/api-key) Click `Get a Gemini API key in Google AI Studio` > Click `Create API Key` > Save it and paste it into your VPS model
 
-- ***running multiple models may reduce the performance of your node and prevent it from responding to tasks***
+- ***Running multiple models may reduce the performance of your node and prevent it from responding to tasks***
 
  ![Image](https://github.com/SKaaalper/Dria-node-data/blob/main/image2.png)
 
