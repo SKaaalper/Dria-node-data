@@ -33,7 +33,7 @@ sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin 
 sudo chmod +x /usr/local/bin/docker-compose
 ```
 
-- **Docker version check**
+- **Docker version**
 ```
 docker --version
 ```
